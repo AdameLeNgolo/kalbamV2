@@ -96,11 +96,19 @@
 
 
 
-    <div id="services" class="h-screen bg-[#0F70B7] text-white text-center my-auto">
-        <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla perferendis dicta ea tempore in possimus
-            fugiat iusto sunt quia sit.
-        </p>
+    <div id="services" class="h-screen bg-[#0F70B7] text-white text-center flex items-center">
+       <div class="flex items-center space-x-20">
+            <h1 class="basis-1/4 text-9xl">A Propos !</h1>
+
+            <div class="basis-3/4 text-xl px-10">
+                <p class="border px-20 rounded-br-3xl py-20 leading-loose hover:shadow-2xl hover:shadow-white">
+                    Kalbam est une solution digitale qui offre aux utilisateurs d’avoir  une meilleure gestion de leur trésorerie. 
+                    Elle permet à l’utilisateur, après avoir enregistré ses revenus qui peuvent être salariaux, recette ou bénéfice de commerce ou une cagnotte ou tontine d’un regroupement de personnes etc., 
+                    d’avoir une vue globale sur l’ensemble de ses dépenses journalières, hebdomadaires ou mensuelles. Ceci lui donnerait une idée sur comment il effectue ses dépenses et sur quelle fréquence. 
+                    Kalbam dispense assez de ressources afin que l’utilisateur prenne une meilleure décision sur les futures dépenses. 
+                </p>
+            </div>
+       </div>
     </div>
 </body>
 
