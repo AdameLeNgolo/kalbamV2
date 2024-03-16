@@ -96,7 +96,7 @@
 
 
 
-    <div id="services" class="h-screen bg-[#0F70B7] text-white text-center flex items-center">
+    <div id="about" class="h-screen bg-[#0F70B7] text-white text-center flex items-center">
        <div class="flex items-center space-x-20">
             <h1 class="basis-1/4 text-9xl">A Propos !</h1>
 
@@ -110,6 +110,49 @@
             </div>
        </div>
     </div>
+
+    <div id="service" class="h-screen py-20">
+        <div class="text-center">
+            <h1 class="text-center text-9xl">Service</h1>
+            <p class="max-w-2xl mx-auto mt-10">
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequatur velit cum inventore, aliquid reiciendis ea similique ducimus, sunt repudiandae iste non voluptatum? Necessitatibus magnam ex accusantium suscipit delectus dolore sed.
+            </p>
+        </div>
+
+        <div class="grid grid-flow-row grid-cols-3 gap-10 mt-20 text-center px-10">
+            <div class="border-4 rounded-md px-10 py-5 space-y-10">
+                <div class="mt-5">
+                    <p class="text-lg bg-red-600 py-3 rounded-b-full">Portefeuille</p>
+                </div>
+                <div class="pb-5">
+                    <p>
+                        Kalbam vous offre une large possibilite d'avoir une a plusieurs portefeuille(s). Ces portefeuilles peuvent etre d'utilisation personnelle ou pour une association, voir meme GIE.
+                    </p>
+                </div>
+            </div>
+
+            <div class="border-4 rounded-md px-10 py-5 space-y-10">
+                <div class="mt-5">
+                    <p class="text-lg bg-red-600 py-3 rounded-b-full">Revenues et depenses</p>
+                </div>
+                <div class="pb-5">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias nisi cum nostrum enim doloremque molestias, dicta pariatur tempore iste necessitatibus doloribus harum corporis quaerat quis.</p>
+                </div>
+            </div>
+
+            <div class="border-4 rounded-md px-10 py-5 space-y-10">
+                <div class="mt-5">
+                    <p class="text-lg bg-red-600 py-3 rounded-b-full">Frequence de suivi</p>
+                </div>
+                <div class="pb-5">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias nisi cum nostrum enim doloremque molestias, dicta pariatur tempore iste necessitatibus doloribus harum corporis quaerat quis.</p>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+
 </body>
 
 </html>
